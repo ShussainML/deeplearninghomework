@@ -1,0 +1,24 @@
+# Streamlit for the web app interface
+streamlit
+
+# Core machine learning libraries
+scikit-learn
+numpy
+pandas
+
+# Visualization libraries
+matplotlib
+seaborn
+plotly
+
+# Progress bar for visualization during training
+tqdm
+
+# For model saving and loading
+joblib
+
+# Optional: Add this if your app supports natural language processing
+nltk
+
+# Optional: For advanced visualizations and hyperparameter tuning
+altair
