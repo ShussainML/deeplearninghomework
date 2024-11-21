@@ -6,6 +6,9 @@ scikit-learn
 numpy
 pandas
 
+# Deep learning library
+tensorflow
+
 # Visualization libraries
 matplotlib
 seaborn
